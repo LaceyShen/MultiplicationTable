@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.MultiplicationTableTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-07-19T08:17:55" hostname="SHENLA-W10" time="0.034">
+  <properties/>
+  <testcase name="should_return_single_equation_when_multiply_given_start_number_2_end_number_2()" classname="com.tw.MultiplicationTableTest" time="0.015"/>
+  <testcase name="should_return_multiply_table_when_multiply_given_start_number_2_end_number_5()" classname="com.tw.MultiplicationTableTest" time="0.001"/>
+  <testcase name="should_return_null_when_multiply_given_start_number_2_end_number_1()" classname="com.tw.MultiplicationTableTest" time="0.001"/>
+  <testcase name="should_return_multiplication_line_when_multiply_given_start_2_and_row_5()" classname="com.tw.MultiplicationTableTest" time="0.001"/>
+  <testcase name="should_return_true_when_validate_given_start_4_and_end_100()" classname="com.tw.MultiplicationTableTest" time="0.001"/>
+  <testcase name="should_return_false_when_validate_given_start_bigger_than_end()" classname="com.tw.MultiplicationTableTest" time="0.004"/>
+  <testcase name="should_return_null_when_multiply_given_start_number_0_end_number_1001()" classname="com.tw.MultiplicationTableTest" time="0.0"/>
+  <testcase name="should_return_false_when_validate_given_end_1001()" classname="com.tw.MultiplicationTableTest" time="0.001"/>
+  <testcase name="should_return_multiplication_expression_when_multiply_given_multiplicand_2_and_multiplier_3()" classname="com.tw.MultiplicationTableTest" time="0.001"/>
+  <testcase name="should_return_true_when_validate_given_start_smaller_than_end()" classname="com.tw.MultiplicationTableTest" time="0.0"/>
+  <testcase name="should_return_false_when_validate_given_start_0()" classname="com.tw.MultiplicationTableTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
